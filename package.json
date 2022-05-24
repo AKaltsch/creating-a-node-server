@@ -1,0 +1,23 @@
+{
+  "name": "creating-a-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKaltsch/creating-a-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKaltsch/creating-a-node-server/issues"
+  },
+  "homepage": "https://github.com/AKaltsch/creating-a-node-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
